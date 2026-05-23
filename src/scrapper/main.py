@@ -24,15 +24,17 @@ async def main() -> None:
         )
         await apply_filters(page)
         
-        records = await extract_listing_data(page, limit=30)
+        records = await extract_listing_data(page)
         output_path = save_raw_json(records)
 
         print(records)
         print(f"Saved to {output_path}")
         print("Website opened successfully.")
-        print("Press ENTER in the terminal to close the browser.")
 
-        input()
+        try:
+            input("Press ENTER in the terminal to close the browser.")
+        except EOFError:
+            pass
 
         await browser.close()
 
