@@ -1,7 +1,7 @@
 import asyncio
 from playwright.async_api import async_playwright
 from filters import apply_filters
-
+from listings import extract_listing_data, save_raw_json
 URL = "https://bidplus.gem.gov.in/all-bids"
 
 async def main() -> None:
@@ -23,6 +23,12 @@ async def main() -> None:
             timeout=60000,
         )
         await apply_filters(page)
+        
+        records = await extract_listing_data(page, limit=30)
+        output_path = save_raw_json(records)
+
+        print(records)
+        print(f"Saved to {output_path}")
         print("Website opened successfully.")
         print("Press ENTER in the terminal to close the browser.")
 
