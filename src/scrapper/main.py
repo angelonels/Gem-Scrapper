@@ -1,6 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright
-
+from filters import apply_filters
 
 URL = "https://bidplus.gem.gov.in/all-bids"
 
@@ -22,7 +22,7 @@ async def main() -> None:
             wait_until="domcontentloaded",
             timeout=60000,
         )
-
+        await apply_filters(page)
         print("Website opened successfully.")
         print("Press ENTER in the terminal to close the browser.")
 
