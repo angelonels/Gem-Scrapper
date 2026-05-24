@@ -1,5 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright
+from details import enrich_records_with_bid_results
 from filters import apply_filters
 from listings import extract_listing_data, save_raw_json
 URL = "https://bidplus.gem.gov.in/all-bids"
@@ -7,7 +8,7 @@ URL = "https://bidplus.gem.gov.in/all-bids"
 async def main() -> None:
     async with async_playwright() as p:
         browser = await p.chromium.launch(
-            headless=False,
+            headless=True,
 
         )
         context = await browser.new_context(
@@ -25,16 +26,11 @@ async def main() -> None:
         await apply_filters(page)
         
         records = await extract_listing_data(page)
+        records = await enrich_records_with_bid_results(browser, records)
         output_path = save_raw_json(records)
 
-        print(records)
         print(f"Saved to {output_path}")
         print("Website opened successfully.")
-
-        try:
-            input("Press ENTER in the terminal to close the browser.")
-        except EOFError:
-            pass
 
         await browser.close()
 
