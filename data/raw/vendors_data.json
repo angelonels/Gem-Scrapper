@@ -1,0 +1,3386 @@
+[
+  {
+    "bid_id": "GEM/2026/B/7537742",
+    "vendor_name": "M/S FAROOQ ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 79279.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537742",
+    "vendor_name": "NEW AHANGER ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 95610.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537742",
+    "vendor_name": "M/S SATPAL ENTERPRISES GENERAL ORDER SUPPLIERS",
+    "vendor_rank": "L3",
+    "vendor_price": 106280.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537692",
+    "vendor_name": "M/S FAROOQ ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 50560.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537692",
+    "vendor_name": "M/S SATPAL ENTERPRISES GENERAL ORDER SUPPLIERS",
+    "vendor_rank": "L2",
+    "vendor_price": 63620.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537692",
+    "vendor_name": "NEW AHANGER ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 70530.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537660",
+    "vendor_name": "M/S FAROOQ ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 39415.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537660",
+    "vendor_name": "NEW AHANGER ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 53630.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537660",
+    "vendor_name": "M/S SATPAL ENTERPRISES GENERAL ORDER SUPPLIERS",
+    "vendor_rank": "L3",
+    "vendor_price": 57760.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537433",
+    "vendor_name": "EVERSHINE ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 23482.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537433",
+    "vendor_name": "FRIENDS ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 25300.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537433",
+    "vendor_name": "National Auto Spares",
+    "vendor_rank": "L3",
+    "vendor_price": 27800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535739",
+    "vendor_name": "DEV GROUP",
+    "vendor_rank": "L1",
+    "vendor_price": 1382000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535739",
+    "vendor_name": "CHITRA ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 1390000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535739",
+    "vendor_name": "M/S SHARDA ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 1400000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535639",
+    "vendor_name": "DEV GROUP",
+    "vendor_rank": "L1",
+    "vendor_price": 1382000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535639",
+    "vendor_name": "CHITRA ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 1390000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535639",
+    "vendor_name": "M/S SHARDA ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 1400000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529785",
+    "vendor_name": "MEWALAYA",
+    "vendor_rank": "L1",
+    "vendor_price": 44344.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529785",
+    "vendor_name": "MAA TARA ARMY SUPPLIER",
+    "vendor_rank": "L2",
+    "vendor_price": 63180.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529785",
+    "vendor_name": "SHREE SHYAM ENTERPRISE",
+    "vendor_rank": "L3",
+    "vendor_price": 67600.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7559206",
+    "vendor_name": "VANYA MESS & CATERING (OPC) PRIVATE LIMITED",
+    "vendor_rank": "L1",
+    "vendor_price": 1045000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7559206",
+    "vendor_name": "VJS AND COMPANY",
+    "vendor_rank": "L2",
+    "vendor_price": 1054500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7559206",
+    "vendor_name": "AANYA TRADERS",
+    "vendor_rank": "L3",
+    "vendor_price": 1062812.5,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7559206",
+    "vendor_name": "ASHA ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7559206",
+    "vendor_name": "GURU KRIPA TRADERS",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534893",
+    "vendor_name": "SANGRAM BUILDCON",
+    "vendor_rank": "L1",
+    "vendor_price": 197260.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534893",
+    "vendor_name": "INDIAN INDUSTRIAL SECURITY SERVICES",
+    "vendor_rank": "L2",
+    "vendor_price": 226300.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534893",
+    "vendor_name": "BABU MAHENDRA SINGH AND SONS",
+    "vendor_rank": "L3",
+    "vendor_price": 251100.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529724",
+    "vendor_name": "ROYAL TRADES(MII)",
+    "vendor_rank": "L1",
+    "vendor_price": 99672.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529724",
+    "vendor_name": "M/S M H Traders (MII)",
+    "vendor_rank": "L2",
+    "vendor_price": 107160.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529724",
+    "vendor_name": "RAJIB TRADERS (MII)",
+    "vendor_rank": "L3",
+    "vendor_price": 114000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535431",
+    "vendor_name": "DEV GROUP",
+    "vendor_rank": "L1",
+    "vendor_price": 1382000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535431",
+    "vendor_name": "CHITRA ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 1390000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535431",
+    "vendor_name": "M/S SHARDA ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 1400000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535334",
+    "vendor_name": "MARUTI ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 500000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535334",
+    "vendor_name": "GTS INNOVATIVE",
+    "vendor_rank": "L2",
+    "vendor_price": 510500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535334",
+    "vendor_name": "P . R ENGINEERING WORKS",
+    "vendor_rank": "L3",
+    "vendor_price": 534689.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535204",
+    "vendor_name": "pargal enterprises",
+    "vendor_rank": "L1",
+    "vendor_price": 31400.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535204",
+    "vendor_name": "BHARAT DEFENCE LOGISTICS",
+    "vendor_rank": "L2",
+    "vendor_price": 34875.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535204",
+    "vendor_name": "ALL YOU NEED",
+    "vendor_rank": "L3",
+    "vendor_price": 36850.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535122",
+    "vendor_name": "Shiva Sales Corporation(MII)",
+    "vendor_rank": "L1",
+    "vendor_price": 49950.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535122",
+    "vendor_name": "SS PROFESSIONAL SERVICES LLP (MII)",
+    "vendor_rank": "L2",
+    "vendor_price": 74890.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7535122",
+    "vendor_name": "M/S M.P.TRADERS (MII)",
+    "vendor_rank": "L3",
+    "vendor_price": 75650.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534743",
+    "vendor_name": "ASHOKA ENGINEERING WORKS(MSE,MII)",
+    "vendor_rank": "L1",
+    "vendor_price": 86063.3,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534743",
+    "vendor_name": "Raj Motor store (MSE,MII)",
+    "vendor_rank": "L2",
+    "vendor_price": 89281.15,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534743",
+    "vendor_name": "BLUE THROAT LIMITED (MSE,MII)",
+    "vendor_rank": "L3",
+    "vendor_price": 99300.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533654",
+    "vendor_name": "EAGLE TRADERS",
+    "vendor_rank": "L1",
+    "vendor_price": 43374.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533654",
+    "vendor_name": "SWASTIK BUILDERS",
+    "vendor_rank": "L2",
+    "vendor_price": 54217.9,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533654",
+    "vendor_name": "SURJIT MOTORS",
+    "vendor_rank": "L3",
+    "vendor_price": 65060.6,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529540",
+    "vendor_name": "M/S M H Traders(MSE,MII)",
+    "vendor_rank": "L1",
+    "vendor_price": 98400.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529540",
+    "vendor_name": "ROYAL TRADES (MSE,MII)",
+    "vendor_rank": "L2",
+    "vendor_price": 101024.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529540",
+    "vendor_name": "RAJIB TRADERS (MSE,MII)",
+    "vendor_rank": "L3",
+    "vendor_price": 123050.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534596",
+    "vendor_name": "Noor enterprises",
+    "vendor_rank": "L1",
+    "vendor_price": 185000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534596",
+    "vendor_name": "TIGER SALES & SERVICE",
+    "vendor_rank": "L2",
+    "vendor_price": 189500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534596",
+    "vendor_name": "KARTAR TRADING COMPANY",
+    "vendor_rank": "L3",
+    "vendor_price": 192000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534527",
+    "vendor_name": "TIGER SALES & SERVICE",
+    "vendor_rank": "L1",
+    "vendor_price": 199800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534527",
+    "vendor_name": "Noor enterprises",
+    "vendor_rank": "L2",
+    "vendor_price": 210600.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534527",
+    "vendor_name": "AAA INNOVATIONS",
+    "vendor_rank": "L3",
+    "vendor_price": 214380.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534191",
+    "vendor_name": "RAINA ASSOCIATES",
+    "vendor_rank": "L1",
+    "vendor_price": 96200.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534191",
+    "vendor_name": "TIGER SALES & SERVICE",
+    "vendor_rank": "L2",
+    "vendor_price": 98540.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534191",
+    "vendor_name": "Noor enterprises",
+    "vendor_rank": "L3",
+    "vendor_price": 101400.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534105",
+    "vendor_name": "SHRI HARI INFOTECH",
+    "vendor_rank": "L1",
+    "vendor_price": 9676.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534105",
+    "vendor_name": "M/S CHINTAHARAN ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 9912.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534105",
+    "vendor_name": "CHINTAHARAN RETAILER LIMITED",
+    "vendor_rank": "L3",
+    "vendor_price": 10000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527668",
+    "vendor_name": "M/S SHREE ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 994800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527668",
+    "vendor_name": "OMG ENGINEERING",
+    "vendor_rank": "L2",
+    "vendor_price": 994900.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527668",
+    "vendor_name": "TRIPATI ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 995000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527629",
+    "vendor_name": "M/S SHREE ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 449800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527629",
+    "vendor_name": "OMG ENGINEERING",
+    "vendor_rank": "L2",
+    "vendor_price": 449900.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527629",
+    "vendor_name": "TRIPATI ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 450000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7495732",
+    "vendor_name": "BISWAS AUTOMOBILES(LUBE)",
+    "vendor_rank": "L1",
+    "vendor_price": 99300.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7495732",
+    "vendor_name": "IJ ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 118150.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7495732",
+    "vendor_name": "LUBEKART SALES INDIA PRIVATE LIMITED",
+    "vendor_rank": "L3",
+    "vendor_price": 134450.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7495732",
+    "vendor_name": "M/S VAIBHAV SALES CORPORATION and UNIT V.S. CORPORATION INDIA PERFUMERY",
+    "vendor_rank": "L4",
+    "vendor_price": 728555.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7562361",
+    "vendor_name": "VANI SYSTEMS PRIVATE LIMITED",
+    "vendor_rank": "L1",
+    "vendor_price": 121200.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7562361",
+    "vendor_name": "HAK JAN KALYAN SEVA SAMITI",
+    "vendor_rank": "L2",
+    "vendor_price": 133320.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7562361",
+    "vendor_name": "BALAJI ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 133926.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHAMMI MITTAL",
+    "vendor_rank": "L1",
+    "vendor_price": 277267.82,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "A S S SECURITY GROUP",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ABSF MANAGEMENT INDIA PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ADITHI GLOBAL CARE PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "AEROTEK SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ALBERTO TECHNOLOGIES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ALLIANCE OUTSOURCING PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "AMPUG Solutions",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ANANYA SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ANJANIPUTAR MANPOWER SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ARIHANT OUTSOURCING SOLUTIONS",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ARYAN BIZZ PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ASHFORD STAFFING (OPC) PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ASIAN HAWKS MANPOWER SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ATIREKA SHRAMIKA PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "AWADH SECURITY SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "axis sales corp.",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "B D MOBEL PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "B.P. CONSTRUCTION",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "BALAJI ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "BD SECURITY",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "BEENA SECURITY SERVICE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "BEST INDIA SOLUTION",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "BHAGWATI MANPOWER SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "BHANU UDAY SECURITY SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "BHARAT KRISHI PASHUPALAN KENDRA",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "BRIGHT ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "CAPTAIN SUNLIGHT SECURITY AGENCY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "CHANDRA HOSPITALITY SERVICE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "CITY HAWKS MANPOWER SERVICES AND CONSULTANCY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "COMPASS VISION SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "COMPASVISION INFOTECH (OPC) PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "COUNTRYWIDE TECHNOLOGIES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "DRIVYA SECURITY AND INTEGRATED SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "DRONE SECURITY AGENCY",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ECO ANN ORGANIC PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "EJEE COMPLETE OFFICE SOLUTIONS PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "EMPVIN CONSULTANCY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "EVOLUTION STAFFING LLP",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "EVORV PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "G.K.ENTERPRISE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "GEONOVATECH INFRA AND SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "GILL ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Global Infra Solution",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "GOLDEN TRIANGLE SECURITY SERVICE PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Growing Manpower Service",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "GUNJAN GLOBAL INFRAVENTURE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "GUPTA ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "GURU NANAK SECURITY",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "HELIS CONSULTING PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Helis Technologies",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "INSF INDIA PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "INTELLISMART ENERGY SOLUTIONS",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "IRON WOLF SECURITY LLP",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ISHITA SECURITY AND MANPOWER SERVICE PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "J B SECURITY SERVICE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "J B TRADING CO",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "J K ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "J N ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "J SHARP PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "J.S Enterprises",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "JAGADVYAPI FACILITIES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "JAI BHOLENATH SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "JAI DURGA SHAKTI SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "JAI JAWALAJI SECURITY AND MANPOWER SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "JAIN CORPORATION",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "JIVANSH HANS PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "JKM TOTAL SECURITY (OPC) PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "JSR ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "K P N SAI INFRA PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Kanishk Enterprises",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "KARMBHUMI ENGINEERING & FACILITY MANAGEMENT PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "KAYRA MANPOWER SUPPLIER",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "KESHWISE NEXUS PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "KGM Enterprise",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "KINSHIP SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "KR ASSOCIATES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "KULDEEP COMMUNICATION & ELECTRONICS",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "LAADU SHYAM KISHORI SECURITIES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "LAKSHYARAJ ASSOCIATES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "LEAD SALES AND SUPPLY",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "M.M. EAGLES SECURITY",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "M.S. ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "M/S AADITYA ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "M/S AWADH GROUP",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "M/S BANKE BIHARI SERVICES AND MANPOWER SUPPLYAR",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "M/S BHAGWATI SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "M/S DOLE ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "M/S NIRBHIK INDIA SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "MADWA ASSOCIATES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "MAHI IT GLOBAL INDIA PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Marg Enterprises",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "MAXWELL MULTISERVICES & CONSTRUCTIONS PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "National Services and Manpower Supply",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "NEGIE INFOTECH",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "New Tiger Security Services",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "NISHIDA AGENCY",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "NOKN INDIA PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "OJN FACILITIES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "OM SHREE PAWANPUTRA SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "OMILA MAHABALA ANANTA PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ONE SOLUTION",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PARI MANPOWER ENTERPRISES (OPC) PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PARV TRADERS",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PHR ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Pihu Manpower Service",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PINK RIDER PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PLANET SECURITY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PLAYMATE OUTSOURCING SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PM SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PMS INT BHATTHA",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PR ASSOCIATE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PRAKASHTAM SECURITY & FACILITY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PREEKSHIT MANPOWER PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PRITHVI MANPOWER SOLUTIONS PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PROHIRE ELITE ENTERPRISES LLP",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "PUNJAB SERVICE AGENCY",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "R J PRIME SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "R K ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "R M ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "R.V.ENTERPRISE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "RAJENDRA TIWARI CONTRACTOR",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "RAJNAR EMPOWERMENT SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "RAPID SERVICES AGENCY",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Ravi Enterprises",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "RAVLEEN SECURITY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Rawat G and R Associates",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "RIDHISIDHI TEAM SOLUTIONS",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "RM ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ROHHIT ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ROMAN SEVEN SECURITY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ROYAL DIGITAL SOLUTIONS",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "RPY MANPOWER SOLUTION PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "RRPERFECT SECURITY SERVICES INDIA PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "RS ENTERPRISE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SADHNA SECURITY SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Sai A1 Services",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SAI PTP SOLUTIONS LLP",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SAMRAT SECURITY SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SAMRIDHI GREEN FORCE PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SARSP TECH SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SEBUSHI SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SECURITY AND INTELLIGENCE SERVICES BUREAU",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHANKARMEERA SR SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHERWOOD SECURITY & MANPOWER SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHIVARCHITA MANPOWER SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHIVDULARI ENTERPRISES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHREE BHOMIYAJI TROOPS PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHREE SHYAM ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHRI KRISHNA CONSTRUCTIONS",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHRI OM MAN POWER SERVICE PROVIDER",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SHUBHAM ENTERPRISE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SIDHESHWAR SECURITY SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SK ENTERPRISES SOLUTIONS LLP",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SNEPRA SECURE SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SPSMS GLOBAL PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SRA INFO SOLUTIONS",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SRV ENTERPRISE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SSS SECURITY FORCE (OPC) PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SUNSPIRE-SKY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SUPERMAN SECURITY SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "SVIAN SECURITY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "TALENT EXCEL PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "TEJASHIV MANPOWER SERVICE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "TMS SECURITY SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "TOTAL OFFICE SOLUTION",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "TROMSO SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "TS MANPOWER SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Ujjwal common service center",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "UPANYA DEVELOPERS AND MANPOWER SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "V K ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "VAISHNAVI ENTERPRISES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "VAJRA SECURITY SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "VAMIKA CORPORATE SERVICES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "VANSH MANPOWER SOLUTIONS PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "VCS Education Healthcare & Outsourcing",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "VEERVAYU ASSOCIATES",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "VERTEX WORKFORCE PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "VG MANPOWER SERVICES PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "VILOHITA SKYBUILT PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "WEBORNET PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "WHITELION EXIM SECURITY PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "WORLD SPACE",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "Xumify",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "YASH R SOLUTION",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "vendor_name": "ZEALOUS SECURATOR PRIVATE LIMITED",
+    "vendor_rank": null,
+    "vendor_price": null,
+    "status_flag": "Disqualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533523",
+    "vendor_name": "ASTRIC INFOTECH (INDIA) PRIVATE LIMITED(MII)",
+    "vendor_rank": "L1",
+    "vendor_price": 16340.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533523",
+    "vendor_name": "AEVITAS PROCUREMENT SERVICE PRIVATE LIMITED (MII)",
+    "vendor_rank": "L2",
+    "vendor_price": 16520.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533523",
+    "vendor_name": "Matchless Shopper (MII)",
+    "vendor_rank": "L3",
+    "vendor_price": 20108.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533327",
+    "vendor_name": "M/S CHINTAHARAN ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 19824.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533327",
+    "vendor_name": "SHRI HARI INFOTECH",
+    "vendor_rank": "L2",
+    "vendor_price": 19942.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533327",
+    "vendor_name": "CHINTAHARAN RETAILER LIMITED",
+    "vendor_rank": "L3",
+    "vendor_price": 20000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7524189",
+    "vendor_name": "SAMRIDDHI ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 112868.18,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7524189",
+    "vendor_name": "NAINA ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 113250.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7524189",
+    "vendor_name": "KAVYA TRADERS",
+    "vendor_rank": "L3",
+    "vendor_price": 114450.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7561581",
+    "vendor_name": "M/S MOHAMMAD AFZAL MAGRAY",
+    "vendor_rank": "L1",
+    "vendor_price": 1800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7561581",
+    "vendor_name": "FAYAZ AHMAD MALIK GENERAL ORDER SUPPLIER",
+    "vendor_rank": "L2",
+    "vendor_price": 2800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7561581",
+    "vendor_name": "WASEEM AHMAD MALIK",
+    "vendor_rank": "L3",
+    "vendor_price": 3300.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533337",
+    "vendor_name": "M/S ADARSH ENTER PRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 1048500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533337",
+    "vendor_name": "M/S V. TEL MARKETIND AND COMMUNICATION",
+    "vendor_rank": "L2",
+    "vendor_price": 1050000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533337",
+    "vendor_name": "M/S NEW WAVES",
+    "vendor_rank": "L3",
+    "vendor_price": 1065000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532984",
+    "vendor_name": "DISTRICT SPORTS CENTER",
+    "vendor_rank": "L1",
+    "vendor_price": 1499995.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532984",
+    "vendor_name": "M/S HARI OM ENTERPRISES GARUR",
+    "vendor_rank": "L2",
+    "vendor_price": 1622000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532984",
+    "vendor_name": "SHRI HARI TRADERS",
+    "vendor_rank": "L3",
+    "vendor_price": 1730000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532890",
+    "vendor_name": "JAY ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 2497600.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532890",
+    "vendor_name": "MAA VAISHNO ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 2542200.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532890",
+    "vendor_name": "M. K. ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 2565000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "GHATWASAN ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 4272096.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SARVADNYA ELECTRICALS AND CONTRACTORS",
+    "vendor_rank": "L2",
+    "vendor_price": 4300800.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "KAPILASTHANA PRIVATE LIMITED",
+    "vendor_rank": "L3",
+    "vendor_price": 4373332.8,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SATNAM ERP SOLUTIONS PRIVATE LIMITED",
+    "vendor_rank": "L4",
+    "vendor_price": 4632000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "VIKRAM TRAVELS",
+    "vendor_rank": "L5",
+    "vendor_price": 4702080.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SHIVOHAM FLEET MANAGEMENT PRIVATE LIMITED",
+    "vendor_rank": "L6",
+    "vendor_price": 4755072.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "MUKESH TRAVEL SERVICES",
+    "vendor_rank": "L7",
+    "vendor_price": 4871040.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SHREE SHYAM ENTERPRISES",
+    "vendor_rank": "L8",
+    "vendor_price": 4976000.64,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "RITU ASSOCIATE",
+    "vendor_rank": "L9",
+    "vendor_price": 4992000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "Sculpt",
+    "vendor_rank": "L10",
+    "vendor_price": 5087904.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SHIVRAJ TAXI SERVICES",
+    "vendor_rank": "L10",
+    "vendor_price": 5087904.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "KURJA ROAD LINES",
+    "vendor_rank": "L11",
+    "vendor_price": 5184000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "MEENA TOUR AND TRAVELS",
+    "vendor_rank": "L12",
+    "vendor_price": 5226336.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "RAWAT TOUR AND TRAVELS",
+    "vendor_rank": "L13",
+    "vendor_price": 5255904.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "Shri Krishna Logistics",
+    "vendor_rank": "L14",
+    "vendor_price": 5270400.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SHREE SHYAM ENTERPRISES",
+    "vendor_rank": "L15",
+    "vendor_price": 5280000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "M/S SATGURU INFRA SOLUTION",
+    "vendor_rank": "L15",
+    "vendor_price": 5280000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SHIV TOUR AND TRAVELS",
+    "vendor_rank": "L15",
+    "vendor_price": 5280000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SHRI SHIV SHAKTI TRADERS",
+    "vendor_rank": "L16",
+    "vendor_price": 5330112.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "YASHASVI JAIPUR TOUR & TRAVELS",
+    "vendor_rank": "L17",
+    "vendor_price": 5425056.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "B.S.DHANKAR TOUR & TRAVELS",
+    "vendor_rank": "L18",
+    "vendor_price": 5524896.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "M S JAT ENTERPRISES",
+    "vendor_rank": "L19",
+    "vendor_price": 5624465.28,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "PARAPEX SECURITY AND ALLIED SERVICES PRIVATE LIMITED",
+    "vendor_rank": "L20",
+    "vendor_price": 5664000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SUPREME MAN POWER AND ALLIED SERVICES",
+    "vendor_rank": "L21",
+    "vendor_price": 5739456.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "TUSHAR ENTERPRISES",
+    "vendor_rank": "L22",
+    "vendor_price": 5760000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "Narayani Enterprises",
+    "vendor_rank": "L23",
+    "vendor_price": 6067200.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "SHREE NAKHAT AND COMPANY",
+    "vendor_rank": "L24",
+    "vendor_price": 6240000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "AMRIT TRADING COMPANY",
+    "vendor_rank": "L25",
+    "vendor_price": 6981216.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "vendor_name": "V AND K ENTERPRISES",
+    "vendor_rank": "L26",
+    "vendor_price": 7467456.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7561046",
+    "vendor_name": "JEHLUM SUPPLY HUB",
+    "vendor_rank": "L1",
+    "vendor_price": 19800.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7561046",
+    "vendor_name": "Al samad traders",
+    "vendor_rank": "L2",
+    "vendor_price": 23120.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7561046",
+    "vendor_name": "HS TRADERS",
+    "vendor_rank": "L3",
+    "vendor_price": 24000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7520384",
+    "vendor_name": "MS P S ASSOCIATES",
+    "vendor_rank": "L1",
+    "vendor_price": 467400.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7520384",
+    "vendor_name": "M/S Tinsukia Diesels.",
+    "vendor_rank": "L2",
+    "vendor_price": 473920.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7520384",
+    "vendor_name": "M/S GAURAV CONSTRUCTION",
+    "vendor_rank": "L3",
+    "vendor_price": 477600.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7518797",
+    "vendor_name": "EXTREME I T SOLUTIONS",
+    "vendor_rank": "L1",
+    "vendor_price": 153500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7518797",
+    "vendor_name": "ELITE TECHNOLOGIES",
+    "vendor_rank": "L2",
+    "vendor_price": 160000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7518797",
+    "vendor_name": "Smart Technologies",
+    "vendor_rank": "L3",
+    "vendor_price": 170500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7513284",
+    "vendor_name": "SUPER POWER ENTERPRISES",
+    "vendor_rank": "Disqualified",
+    "vendor_price": 2339500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7513284",
+    "vendor_name": "M/S T&D CONSTRUCTION AND TRADING CO.",
+    "vendor_rank": "L1",
+    "vendor_price": 3323320.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7513284",
+    "vendor_name": "KONARK ENGINEERS & TRADERS",
+    "vendor_rank": "L2",
+    "vendor_price": 4071000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7513284",
+    "vendor_name": "KULBUSHAN KUMAR",
+    "vendor_rank": "L3",
+    "vendor_price": 4169280.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7513284",
+    "vendor_name": "MADHAV ENTERPRISES",
+    "vendor_rank": "L4",
+    "vendor_price": 4231000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7547582",
+    "vendor_name": "CAPITAL GADGETS",
+    "vendor_rank": "L1",
+    "vendor_price": 699341.3,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7547582",
+    "vendor_name": "ARUNA ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 708554.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532604",
+    "vendor_name": "DIVYA WATER PLAZA",
+    "vendor_rank": "L1",
+    "vendor_price": 399500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532604",
+    "vendor_name": "Ananya Enterprises",
+    "vendor_rank": "L2",
+    "vendor_price": 439450.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532604",
+    "vendor_name": "M/S SHARDA ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 483395.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532603",
+    "vendor_name": "OM TRADERS",
+    "vendor_rank": "L1",
+    "vendor_price": 21500.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532603",
+    "vendor_name": "ARMY CEREMONIAL STORE",
+    "vendor_rank": "L2",
+    "vendor_price": 23500.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532603",
+    "vendor_name": "SONALI ENTERPRISE",
+    "vendor_rank": "L3",
+    "vendor_price": 24999.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532603",
+    "vendor_name": "MARK ENTERPRISES",
+    "vendor_rank": "L4",
+    "vendor_price": 149900.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532581",
+    "vendor_name": "MAHESHWARI TRADERS",
+    "vendor_rank": "L1",
+    "vendor_price": 325000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532581",
+    "vendor_name": "BALAJI ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 330000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532581",
+    "vendor_name": "AAKSHRA ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 339000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532581",
+    "vendor_name": "EXCELLENT SERVICES",
+    "vendor_rank": "L4",
+    "vendor_price": 360000.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527679",
+    "vendor_name": "SHIKHAR ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 959800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527679",
+    "vendor_name": "OMG ENGINEERING",
+    "vendor_rank": "L2",
+    "vendor_price": 959900.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527679",
+    "vendor_name": "TRIPATI ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 960000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527596",
+    "vendor_name": "M/S SHREE ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 549800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527596",
+    "vendor_name": "OMG ENGINEERING",
+    "vendor_rank": "L2",
+    "vendor_price": 549900.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527596",
+    "vendor_name": "TRIPATI ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 550000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527592",
+    "vendor_name": "M/S SHREE ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 549800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527592",
+    "vendor_name": "OMG ENGINEERING",
+    "vendor_rank": "L2",
+    "vendor_price": 549900.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527592",
+    "vendor_name": "TRIPATI ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 550000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527569",
+    "vendor_name": "M/S SHREE ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 549800.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527569",
+    "vendor_name": "OMG ENGINEERING",
+    "vendor_rank": "L2",
+    "vendor_price": 549900.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527569",
+    "vendor_name": "TRIPATI ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 550000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532438",
+    "vendor_name": "BALAJI ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 27690.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532438",
+    "vendor_name": "Aggarwal Suppliers",
+    "vendor_rank": "L2",
+    "vendor_price": 33586.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532438",
+    "vendor_name": "INDIAN TRADERS",
+    "vendor_rank": "L3",
+    "vendor_price": 46194.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532412",
+    "vendor_name": "BALAJI ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 80900.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532412",
+    "vendor_name": "Aggarwal Suppliers",
+    "vendor_rank": "L2",
+    "vendor_price": 91008.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532412",
+    "vendor_name": "INDIAN TRADERS",
+    "vendor_rank": "L3",
+    "vendor_price": 137348.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7522684",
+    "vendor_name": "Kanchan Traders",
+    "vendor_rank": "L1",
+    "vendor_price": 38167.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7522684",
+    "vendor_name": "BALAJI TRADERS",
+    "vendor_rank": "L2",
+    "vendor_price": 41735.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7514165",
+    "vendor_name": "EWS GREENTECH PRIVATE LIMITED",
+    "vendor_rank": "L1",
+    "vendor_price": 147223.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7514165",
+    "vendor_name": "super agro udyog",
+    "vendor_rank": "L2",
+    "vendor_price": 147557.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7514165",
+    "vendor_name": "M/S KUMAR ENGINEERING",
+    "vendor_rank": "L3",
+    "vendor_price": 147843.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7560808",
+    "vendor_name": "SHANTI INTERNATIONAL(MII)",
+    "vendor_rank": "L1",
+    "vendor_price": 37250.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7537573",
+    "vendor_name": "NEW PATIALA DIESEL SERVICE",
+    "vendor_rank": "L1",
+    "vendor_price": 45577.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532377",
+    "vendor_name": "BALAJI ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 52440.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532377",
+    "vendor_name": "Aggarwal Suppliers",
+    "vendor_rank": "L2",
+    "vendor_price": 63435.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532377",
+    "vendor_name": "INDIAN TRADERS",
+    "vendor_rank": "L3",
+    "vendor_price": 85247.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532359",
+    "vendor_name": "DILIP AUTO AGENCY",
+    "vendor_rank": "L1",
+    "vendor_price": 6272.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532359",
+    "vendor_name": "SHAH AUTOMOBILES",
+    "vendor_rank": "L2",
+    "vendor_price": 6870.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532359",
+    "vendor_name": "RUDRA AUTO SERVICES",
+    "vendor_rank": "L3",
+    "vendor_price": 7180.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532313",
+    "vendor_name": "U T TRADERS",
+    "vendor_rank": "L1",
+    "vendor_price": 83537.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532313",
+    "vendor_name": "S.S. ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 83615.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532313",
+    "vendor_name": "ARUN SHARMA GOVT CONTRACTOR",
+    "vendor_rank": "L3",
+    "vendor_price": 83748.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532282",
+    "vendor_name": "MAHADEV ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 79250.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532282",
+    "vendor_name": "LAKSHITA SALES AND SERVICES PRIVATE LIMITED",
+    "vendor_rank": "L2",
+    "vendor_price": 82600.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532282",
+    "vendor_name": "MANISH TRADING COMPANY",
+    "vendor_rank": "L3",
+    "vendor_price": 95000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532265",
+    "vendor_name": "MAA BHAGWATI TRADERS",
+    "vendor_rank": "L1",
+    "vendor_price": 59405.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532265",
+    "vendor_name": "BHAWANI ENTERPRISES AND GENERAL SUPPLIER",
+    "vendor_rank": "L2",
+    "vendor_price": 65445.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532265",
+    "vendor_name": "S.K.S ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 74590.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532210",
+    "vendor_name": "KAVI AUTOMOBILES AND ENGINEERING",
+    "vendor_rank": "L1",
+    "vendor_price": 15479.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532210",
+    "vendor_name": "LAXMI TRADERS",
+    "vendor_rank": "L2",
+    "vendor_price": 18460.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532210",
+    "vendor_name": "PRAVEEN DIESEL PUMP SERVICE",
+    "vendor_rank": "L3",
+    "vendor_price": 19682.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532147",
+    "vendor_name": "KAVI AUTOMOBILES AND ENGINEERING",
+    "vendor_rank": "L1",
+    "vendor_price": 25855.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532147",
+    "vendor_name": "PRAVEEN DIESEL PUMP SERVICE",
+    "vendor_rank": "L2",
+    "vendor_price": 28842.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532147",
+    "vendor_name": "LAXMI TRADERS",
+    "vendor_rank": "L3",
+    "vendor_price": 28990.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532100",
+    "vendor_name": "R T ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 35000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532100",
+    "vendor_name": "D R ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 35300.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532100",
+    "vendor_name": "SHREE COMPUTER AND ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 35500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532058",
+    "vendor_name": "R T ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 85000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532058",
+    "vendor_name": "D R ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 85300.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532058",
+    "vendor_name": "SHREE COMPUTER AND ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 85500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7528637",
+    "vendor_name": "M/S AGAM TRADERS",
+    "vendor_rank": "L1",
+    "vendor_price": 43387.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7528637",
+    "vendor_name": "M/S I.R. ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 50220.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7528637",
+    "vendor_name": "JAPLEEN TRADERS",
+    "vendor_rank": "L3",
+    "vendor_price": 50449.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527337",
+    "vendor_name": "APEX ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 98500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527337",
+    "vendor_name": "COSMIK ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 99910.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527337",
+    "vendor_name": "hospitech industry",
+    "vendor_rank": "L3",
+    "vendor_price": 115500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527288",
+    "vendor_name": "MAHAVIR MOTOR",
+    "vendor_rank": "L1",
+    "vendor_price": 23700.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527288",
+    "vendor_name": "L B ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 25570.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527288",
+    "vendor_name": "ARMY ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 26671.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7522608",
+    "vendor_name": "RAJAN DIESELS",
+    "vendor_rank": "L1",
+    "vendor_price": 28272.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7522608",
+    "vendor_name": "BHARAT AGENCIES",
+    "vendor_rank": "L2",
+    "vendor_price": 30480.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7522608",
+    "vendor_name": "SPR AUTOMOBILES",
+    "vendor_rank": "L3",
+    "vendor_price": 50880.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7514359",
+    "vendor_name": "EWS GREENTECH PRIVATE LIMITED",
+    "vendor_rank": "L1",
+    "vendor_price": 538959.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7514359",
+    "vendor_name": "M/S KUMAR ENGINEERING",
+    "vendor_rank": "L2",
+    "vendor_price": 542259.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7514359",
+    "vendor_name": "super agro udyog",
+    "vendor_rank": "L3",
+    "vendor_price": 545259.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7501365",
+    "vendor_name": "M/S RAVAT ELECTRICALS",
+    "vendor_rank": "L1",
+    "vendor_price": 840000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7501365",
+    "vendor_name": "M/s Indian Enterprises",
+    "vendor_rank": "L2",
+    "vendor_price": 900000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7501365",
+    "vendor_name": "TARUN GAUR",
+    "vendor_rank": "L3",
+    "vendor_price": 964000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532023",
+    "vendor_name": "R T ENTERPRISES",
+    "vendor_rank": "L1",
+    "vendor_price": 200000.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532023",
+    "vendor_name": "D R ENTERPRISES",
+    "vendor_rank": "L2",
+    "vendor_price": 200300.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532023",
+    "vendor_name": "SHREE COMPUTER AND ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 200500.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7531992",
+    "vendor_name": "LAXMI TRADERS",
+    "vendor_rank": "L1",
+    "vendor_price": 149990.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7531992",
+    "vendor_name": "KAVI AUTOMOBILES AND ENGINEERING",
+    "vendor_rank": "L2",
+    "vendor_price": 151660.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7531992",
+    "vendor_name": "PRAVEEN DIESEL PUMP SERVICE",
+    "vendor_rank": "L3",
+    "vendor_price": 154050.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529280",
+    "vendor_name": "WEST END MOTORS",
+    "vendor_rank": "L1",
+    "vendor_price": 49900.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529280",
+    "vendor_name": "BHAGWATI SUPPLIERS",
+    "vendor_rank": "L2",
+    "vendor_price": 51350.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7529280",
+    "vendor_name": "S.S. ENTERPRISES",
+    "vendor_rank": "L3",
+    "vendor_price": 51760.0,
+    "status_flag": "Qualified",
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7523391",
+    "vendor_name": "RIKI SECURITY SOLUTIONS PRIVATE LIMITED",
+    "vendor_rank": "L1",
+    "vendor_price": 128936.93,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7523391",
+    "vendor_name": "TECHNO AUTOMOBILES PRIVATE LIMITED",
+    "vendor_rank": "L2",
+    "vendor_price": 132540.0,
+    "status_flag": null,
+    "remarks": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7523391",
+    "vendor_name": "ORS MOTORS LLP",
+    "vendor_rank": "L3",
+    "vendor_price": 134379.0,
+    "status_flag": null,
+    "remarks": null
+  }
+]

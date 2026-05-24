@@ -1,0 +1,1191 @@
+[
+  {
+    "bid_id": "GEM/2026/B/7534893",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7534893",
+      "category": null,
+      "buyer": "Prisons Administration and Reforms Department Uttar Pradesh",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "23-05-2026 4:00 PM",
+      "bid_result_link": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9323666"
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7535122",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7535122",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "23-05-2026 2:00 PM",
+      "bid_result_link": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9323923"
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7534191",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7534191",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "26",
+      "bid_value": null,
+      "award_date": "23-05-2026 1:00 PM",
+      "bid_result_link": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9322909"
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7533327",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7533327",
+      "category": null,
+      "buyer": "Energy Department Uttar Pradesh",
+      "quantity": "2",
+      "bid_value": null,
+      "award_date": "23-05-2026 12:00 PM",
+      "bid_result_link": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321975"
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7501702",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7501702",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "23-05-2026 11:01 AM",
+      "bid_result_link": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7533337",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7533337",
+      "category": null,
+      "buyer": "Urban Development Department Uttar Pradesh",
+      "quantity": "3",
+      "bid_value": null,
+      "award_date": "23-05-2026 11:00 AM",
+      "bid_result_link": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321986"
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7389281",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7389281",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "23-05-2026 9:30 AM",
+      "bid_result_link": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7501724",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7501724",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "22-05-2026 9:00 PM",
+      "bid_result_link": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7532604",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7532604",
+      "category": null,
+      "buyer": "Department of Panchayati Raj",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "22-05-2026 9:00 PM",
+      "bid_result_link": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321186"
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7518135",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7518135",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "235",
+      "bid_value": null,
+      "award_date": "22-05-2026 8:00 PM",
+      "bid_result_link": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7518196",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7518196",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "195",
+      "bid_value": null,
+      "award_date": "22-05-2026 8:00 PM",
+      "bid_result_link": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7517998",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7517998",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "215",
+      "bid_value": null,
+      "award_date": "22-05-2026 8:00 PM",
+      "bid_result_link": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7560808",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7560808",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "25",
+      "bid_value": null,
+      "award_date": "22-05-2026 7:00 PM",
+      "bid_result_link": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9352405"
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7514359",
+    "reason": "category: Input should be a valid string",
+    "row_type": "listing",
+    "payload": {
+      "bid_id": "GEM/2026/B/7514359",
+      "category": null,
+      "buyer": "Urban Development Department Uttar Pradesh",
+      "quantity": "3",
+      "bid_value": null,
+      "award_date": "22-05-2026 7:00 PM",
+      "bid_result_link": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9300851"
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7534893",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7534893",
+      "category": null,
+      "buyer": "Prisons Administration and Reforms Department Uttar Pradesh",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "23-05-2026 4:00 PM",
+      "winner_name": "SANGRAM BUILDCON",
+      "winner_price": 197260.0,
+      "num_bidders": 3
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7535122",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7535122",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "23-05-2026 2:00 PM",
+      "winner_name": "Shiva Sales Corporation(MII)",
+      "winner_price": 49950.0,
+      "num_bidders": 3
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7534191",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7534191",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "26",
+      "bid_value": null,
+      "award_date": "23-05-2026 1:00 PM",
+      "winner_name": "RAINA ASSOCIATES",
+      "winner_price": 96200.0,
+      "num_bidders": 3
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7533327",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7533327",
+      "category": null,
+      "buyer": "Energy Department Uttar Pradesh",
+      "quantity": "2",
+      "bid_value": null,
+      "award_date": "23-05-2026 12:00 PM",
+      "winner_name": "M/S CHINTAHARAN ENTERPRISES",
+      "winner_price": 19824.0,
+      "num_bidders": 3
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7501702",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7501702",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "23-05-2026 11:01 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7533337",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7533337",
+      "category": null,
+      "buyer": "Urban Development Department Uttar Pradesh",
+      "quantity": "3",
+      "bid_value": null,
+      "award_date": "23-05-2026 11:00 AM",
+      "winner_name": "M/S ADARSH ENTER PRISES",
+      "winner_price": 1048500.0,
+      "num_bidders": 3
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7389281",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7389281",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "23-05-2026 9:30 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7501724",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7501724",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "22-05-2026 9:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7532604",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7532604",
+      "category": null,
+      "buyer": "Department of Panchayati Raj",
+      "quantity": "1",
+      "bid_value": null,
+      "award_date": "22-05-2026 9:00 PM",
+      "winner_name": "DIVYA WATER PLAZA",
+      "winner_price": 399500.0,
+      "num_bidders": 3
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7518135",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7518135",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "235",
+      "bid_value": null,
+      "award_date": "22-05-2026 8:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7518196",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7518196",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "195",
+      "bid_value": null,
+      "award_date": "22-05-2026 8:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7517998",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7517998",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "215",
+      "bid_value": null,
+      "award_date": "22-05-2026 8:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7560808",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7560808",
+      "category": null,
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": "25",
+      "bid_value": null,
+      "award_date": "22-05-2026 7:00 PM",
+      "winner_name": "SHANTI INTERNATIONAL(MII)",
+      "winner_price": 37250.0,
+      "num_bidders": 1
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7514359",
+    "reason": "category: Input should be a valid string",
+    "row_type": "bid_detail",
+    "payload": {
+      "bid_id": "GEM/2026/B/7514359",
+      "category": null,
+      "buyer": "Urban Development Department Uttar Pradesh",
+      "quantity": "3",
+      "bid_value": null,
+      "award_date": "22-05-2026 7:00 PM",
+      "winner_name": "EWS GREENTECH PRIVATE LIMITED",
+      "winner_price": 538959.0,
+      "num_bidders": 3
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7513284",
+    "reason": "vendor_rank: Value error, vendor_rank must use L-ranking, e.g. L1",
+    "row_type": "vendor",
+    "payload": {
+      "bid_id": "GEM/2026/B/7513284",
+      "vendor_name": "SUPER POWER ENTERPRISES",
+      "vendor_rank": "Disqualified",
+      "vendor_price": 2339500.0,
+      "status_flag": "Qualified",
+      "remarks": null
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7436862",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7436862",
+      "category": "Bus Hiring Service - Short Term - Outstation; 40-42; Non Deluxe (NDX); 150",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 250,
+      "bid_value": null,
+      "award_date": "23-05-2026 3:42 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7485717",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7485717",
+      "category": "Stationary Valve Regulated Lead Acid Batteries (V3) Conforming To IS 15549",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 120,
+      "bid_value": null,
+      "award_date": "23-05-2026 3:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7489765",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7489765",
+      "category": "Stationary Valve Regulated Lead Acid Batteries (V3) Conforming To IS 15549",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 38,
+      "bid_value": null,
+      "award_date": "23-05-2026 3:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7485949",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7485949",
+      "category": "Lead Acid Storage Batteries For Motor Vehicles with Light Weight and High Cranking Performance (V2)",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 32,
+      "bid_value": null,
+      "award_date": "23-05-2026 3:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7493915",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7493915",
+      "category": "Valve Regulated Lead Acid (VRLA) Batteries as per TEC Specification",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 10,
+      "bid_value": null,
+      "award_date": "23-05-2026 3:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7485924",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7485924",
+      "category": "Stationary Valve Regulated Lead Acid Batteries (V3) Conforming To IS 15549",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 38,
+      "bid_value": null,
+      "award_date": "23-05-2026 3:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7497767",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7497767",
+      "category": "Goods Transport Service – Per KM Based Service - Household/Office, Valuable goods requiring High",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 21318,
+      "bid_value": null,
+      "award_date": "23-05-2026 12:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7377797",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7377797",
+      "category": "Stable Bleaching Powder for Household and Industrial use (V3) conforming to IS 1065 (Part 1)",
+      "buyer": "Panchayat and Rural Development Department Chhattisgarh",
+      "quantity": 37500,
+      "bid_value": null,
+      "award_date": "23-05-2026 10:43 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7494360",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7494360",
+      "category": "Cement OPC 43 Grade packed in HDPE bag each 50 Kg wt conforming to IS 8112 - 1989 Make Birla Gold a",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 102,
+      "bid_value": null,
+      "award_date": "23-05-2026 10:28 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7512937",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7512937",
+      "category": "Monthly Basis Cab & Taxi Hiring Services - Sedan; 1500 km x 320 hours; Local 24*7",
+      "buyer": "Energy Department Uttar Pradesh",
+      "quantity": 3,
+      "bid_value": null,
+      "award_date": "23-05-2026 10:14 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7359343",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7359343",
+      "category": "4203082407-LIFT ARM FITTED W/ ROD-F, CH & DISCH. RHF",
+      "buyer": "Ministry of Steel Steel Authority of India Limited",
+      "quantity": 2,
+      "bid_value": null,
+      "award_date": "23-05-2026 10:02 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7428733",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7428733",
+      "category": "Hiring of Earth Moving Equipments, Material Handling Equipments and Cranes (per Hour basis) - As Pe",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 4,
+      "bid_value": null,
+      "award_date": "23-05-2026 10:00 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7520390",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7520390",
+      "category": "Shelter Parts for Cook House and Dining Hall,PCC Cement IS 1489,Coarse Sand,20mm Aggregates,40mm Ag",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 4315,
+      "bid_value": null,
+      "award_date": "23-05-2026 10:00 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7494677",
+    "reason": "duplicate_vendor",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7494677",
+      "category": "Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Outstation",
+      "buyer": "Ministry of Railways Indian Railways",
+      "quantity": 4,
+      "bid_value": null,
+      "award_date": "23-05-2026 10:00 AM",
+      "winner_name": "GHATWASAN ENTERPRISES",
+      "winner_price": 4272096.0,
+      "num_bidders": 29,
+      "l1_l2_gap": 28704.0,
+      "l1_l2_gap_pct": 0.6718950135952001,
+      "has_more_than_3_participants": true,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": true,
+      "status_flag": "bad",
+      "vendors": [
+        {
+          "vendor_name": "GHATWASAN ENTERPRISES",
+          "vendor_rank": "L1",
+          "vendor_price": 4272096.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SARVADNYA ELECTRICALS AND CONTRACTORS",
+          "vendor_rank": "L2",
+          "vendor_price": 4300800.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "KAPILASTHANA PRIVATE LIMITED",
+          "vendor_rank": "L3",
+          "vendor_price": 4373332.8,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SATNAM ERP SOLUTIONS PRIVATE LIMITED",
+          "vendor_rank": "L4",
+          "vendor_price": 4632000.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "VIKRAM TRAVELS",
+          "vendor_rank": "L5",
+          "vendor_price": 4702080.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SHIVOHAM FLEET MANAGEMENT PRIVATE LIMITED",
+          "vendor_rank": "L6",
+          "vendor_price": 4755072.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "MUKESH TRAVEL SERVICES",
+          "vendor_rank": "L7",
+          "vendor_price": 4871040.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SHREE SHYAM ENTERPRISES",
+          "vendor_rank": "L8",
+          "vendor_price": 4976000.64,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "RITU ASSOCIATE",
+          "vendor_rank": "L9",
+          "vendor_price": 4992000.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "Sculpt",
+          "vendor_rank": "L10",
+          "vendor_price": 5087904.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SHIVRAJ TAXI SERVICES",
+          "vendor_rank": "L10",
+          "vendor_price": 5087904.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "KURJA ROAD LINES",
+          "vendor_rank": "L11",
+          "vendor_price": 5184000.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "MEENA TOUR AND TRAVELS",
+          "vendor_rank": "L12",
+          "vendor_price": 5226336.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "RAWAT TOUR AND TRAVELS",
+          "vendor_rank": "L13",
+          "vendor_price": 5255904.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "Shri Krishna Logistics",
+          "vendor_rank": "L14",
+          "vendor_price": 5270400.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SHREE SHYAM ENTERPRISES",
+          "vendor_rank": "L15",
+          "vendor_price": 5280000.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "M/S SATGURU INFRA SOLUTION",
+          "vendor_rank": "L15",
+          "vendor_price": 5280000.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SHIV TOUR AND TRAVELS",
+          "vendor_rank": "L15",
+          "vendor_price": 5280000.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SHRI SHIV SHAKTI TRADERS",
+          "vendor_rank": "L16",
+          "vendor_price": 5330112.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "YASHASVI JAIPUR TOUR & TRAVELS",
+          "vendor_rank": "L17",
+          "vendor_price": 5425056.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "B.S.DHANKAR TOUR & TRAVELS",
+          "vendor_rank": "L18",
+          "vendor_price": 5524896.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "M S JAT ENTERPRISES",
+          "vendor_rank": "L19",
+          "vendor_price": 5624465.28,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "PARAPEX SECURITY AND ALLIED SERVICES PRIVATE LIMITED",
+          "vendor_rank": "L20",
+          "vendor_price": 5664000.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SUPREME MAN POWER AND ALLIED SERVICES",
+          "vendor_rank": "L21",
+          "vendor_price": 5739456.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "TUSHAR ENTERPRISES",
+          "vendor_rank": "L22",
+          "vendor_price": 5760000.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "Narayani Enterprises",
+          "vendor_rank": "L23",
+          "vendor_price": 6067200.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "SHREE NAKHAT AND COMPANY",
+          "vendor_rank": "L24",
+          "vendor_price": 6240000.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "AMRIT TRADING COMPANY",
+          "vendor_rank": "L25",
+          "vendor_price": 6981216.0,
+          "status_flag": null,
+          "remarks": null
+        },
+        {
+          "vendor_name": "V AND K ENTERPRISES",
+          "vendor_rank": "L26",
+          "vendor_price": 7467456.0,
+          "status_flag": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7384782",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7384782",
+      "category": "Tenofovir 300 mg plus Lamivudine 300 mg plus Dolutegravir 50 mg FDC,Foot drop splint,Lignocaine HCl",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 166481,
+      "bid_value": null,
+      "award_date": "23-05-2026 9:40 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7489348",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7489348",
+      "category": "Super Structure Supply of Combined Toilet Block CTB 7.32M x 7.10M x 4.40M Height as per CE HQ 4 Cor",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 4586,
+      "bid_value": null,
+      "award_date": "23-05-2026 9:15 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7490901",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7490901",
+      "category": "Super Structure Supply of Fd Toilet Bio 7.32M x 7.10M x 4.40M Height as per CE HQ 4 Corps drawing N",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 2293,
+      "bid_value": null,
+      "award_date": "23-05-2026 9:13 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7489800",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7489800",
+      "category": "Super Structure Supply of Fd Toilet Bio CTB 7.32M x 7.10M x 4.40M Height as per CE HQ 4 Corps drawi",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 2293,
+      "bid_value": null,
+      "award_date": "23-05-2026 9:00 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7489626",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7489626",
+      "category": "Super Structure Supply of Combined Toilet Block CTB 7.32M x 7.10M x 4.40M Height as per CE HQ 4 Cor",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 2293,
+      "bid_value": null,
+      "award_date": "23-05-2026 9:00 AM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7497804",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7497804",
+      "category": "Supply of Superstructure of Large Store Shelter,Supply of Construction Material,Supply of electroni",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 6,
+      "bid_value": null,
+      "award_date": "22-05-2026 9:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7489476",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7489476",
+      "category": "Super Structure Supply of Combined Toilet Block CTB 7.32M x 7.10M x 4.40M Height as per CE HQ 4 Cor",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 2293,
+      "bid_value": null,
+      "award_date": "22-05-2026 9:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7473302",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7473302",
+      "category": "Tab Paracetamol 650 mg,Tab Diclofenac sod SR 100 mg,Common Cold Tab Anti histaminics plus Paracetam",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 77209,
+      "bid_value": null,
+      "award_date": "22-05-2026 9:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7493754",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7493754",
+      "category": "Cheese Spread,Cheese Slice,Cheese Cube,Carbonated Soft Drinks,Lime Based Soft Drinks,Mixed Fruit Ju",
+      "buyer": "Ministry of Defence Department of Military Affairs",
+      "quantity": 2650,
+      "bid_value": null,
+      "award_date": "22-05-2026 7:00 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  },
+  {
+    "bid_id": "GEM/2026/B/7330561",
+    "reason": "winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer",
+    "row_type": "bid",
+    "payload": {
+      "bid_id": "GEM/2026/B/7330561",
+      "category": "Operation And Maintenance Of Fire Fighting System - Complete System",
+      "buyer": "Ministry of Defence Department of Defence Research & Development",
+      "quantity": 1,
+      "bid_value": null,
+      "award_date": "22-05-2026 6:23 PM",
+      "winner_name": null,
+      "winner_price": null,
+      "num_bidders": null,
+      "l1_l2_gap": null,
+      "l1_l2_gap_pct": null,
+      "has_more_than_3_participants": false,
+      "winner_not_lowest": false,
+      "has_duplicate_vendor": false,
+      "status_flag": "good",
+      "vendors": []
+    }
+  }
+]

@@ -1,0 +1,91 @@
+GeM Scraper Insights
+
+1. Coverage and Data Quality
+- Listing rows extracted: 100
+- Bid rows processable after listing validation: 86
+- Bid-detail extraction failures: 14
+- Good processed bids from processable rows: 62 (72.09%)
+- Bad rows/anomalies: 53
+- Duplicate vendor rows detected: 1
+
+Bad row types:
+- listing: 14
+- bid_detail: 14
+- vendor: 1
+- bid: 24
+
+Top validation/anomaly reasons:
+- category: Input should be a valid string: 28
+- winner_name: Input should be a valid string; winner_price: Input should be a valid number; num_bidders: Input should be a valid integer: 23
+- vendor_rank: Value error, vendor_rank must use L-ranking, e.g. L1: 1
+- duplicate_vendor: 1
+
+2. Competition Profile
+- Average bidders per good bid: 6.0
+- Maximum bidders in a good bid: 186
+- Single-bidder good bids: 1
+- Bids with more than 3 participants: 9.68%
+
+3. L1-L2 Pricing Spread
+- Average L1-L2 gap: 20971.56
+- Median L1-L2 gap: 3521.5
+- Minimum L1-L2 gap: 78.0
+- Maximum L1-L2 gap: 747680.0
+- Average L1-L2 gap percent: 8.64%
+
+Tightest L1-L2 gaps:
+- GEM/2026/B/7532313: U T TRADERS won at 83537.0 with L1-L2 gap 78.0 (0.09%)
+- GEM/2026/B/7527668: M/S SHREE ENTERPRISES won at 994800.0 with L1-L2 gap 100.0 (0.01%)
+- GEM/2026/B/7527629: M/S SHREE ENTERPRISES won at 449800.0 with L1-L2 gap 100.0 (0.02%)
+- GEM/2026/B/7527679: SHIKHAR ENTERPRISES won at 959800.0 with L1-L2 gap 100.0 (0.01%)
+- GEM/2026/B/7527596: M/S SHREE ENTERPRISES won at 549800.0 with L1-L2 gap 100.0 (0.02%)
+
+Widest L1-L2 gaps:
+- GEM/2026/B/7513284: M/S T&D CONSTRUCTION AND TRADING CO. won at 3323320.0 with L1-L2 gap 747680.0 (22.5%)
+- GEM/2026/B/7532984: DISTRICT SPORTS CENTER won at 1499995.0 with L1-L2 gap 122005.0 (8.13%)
+- GEM/2026/B/7501365: M/S RAVAT ELECTRICALS won at 840000.0 with L1-L2 gap 60000.0 (7.14%)
+- GEM/2026/B/7532890: JAY ENTERPRISES won at 2497600.0 with L1-L2 gap 44600.0 (1.79%)
+- GEM/2026/B/7495732: BISWAS AUTOMOBILES(LUBE) won at 99300.0 with L1-L2 gap 18850.0 (18.98%)
+
+4. Buyer and Category Concentration
+Top buyers:
+- Ministry of Defence Department of Military Affairs: 28
+- Department of Panchayati Raj: 8
+- Ministry of Defence Department of Defence: 7
+- Rural Development Department Uttar Pradesh: 6
+- Ministry of Home Affairs Central Armed Police Forces: 3
+- Panchayati Raj Department UttraKhand: 2
+- Energy Department Uttar Pradesh: 1
+- Ministry of Finance Department of Revenue: 1
+
+Top categories:
+- High Mast Lighting Octagonal Tower for Small area with LED Flood Lighting System (V2): 4
+- High Mast Lighting Tower for large area with LED Flood Lighting System: 3
+- Caliper Pad,Oil Filter,Air Compressor Ring Set,Packing Kit,Front Brake Cable,Brake Booster Kit,Brak: 1
+- Cabin Lifting Pipe,Relay Valve Kit,Solenoid Switch,Self Starter Bush,Cabin Lifting Pump,Bendix Driv: 1
+- Minor Kit Assy,Diaphragm Kit,Door Lock Assy RH,Oil Seal,Main Shaft Flange,Drain Pipe,Drain Plug,Oil: 1
+- Repair and Overhauling Service - diesel generators- DG Sets; Kirloskar; Yes; Buyer Premises: 1
+- WALL MOUNTED HEATER 55 X 22CM 2000W,SPEAKER REPAIR KIT,FLEX WITH IRON FRAME 6 X 4 FEET,SAFETY GLOVE: 1
+- Catering service (Duration Based) - Veg, Non Veg; Breakfast, Lunch, Dinner, Snack/High Tea Diet as: 1
+
+5. Repeat Winners
+Repeat winners:
+- M/S FAROOQ ENTERPRISES: 3
+- DEV GROUP: 3
+- M/S SHREE ENTERPRISES: 5
+- BALAJI ENTERPRISES: 3
+- KAVI AUTOMOBILES AND ENGINEERING: 2
+- R T ENTERPRISES: 3
+
+6. Technical Evaluation Flags
+- Disqualified/rejected vendor rows: 187
+- GEM/2026/B/7559206: ASHA ENTERPRISES | Disqualified | None
+- GEM/2026/B/7559206: GURU KRIPA TRADERS | Disqualified | None
+- GEM/2026/B/7534511: A S S SECURITY GROUP | Disqualified | None
+- GEM/2026/B/7534511: ABSF MANAGEMENT INDIA PRIVATE LIMITED | Disqualified | None
+- GEM/2026/B/7534511: ADITHI GLOBAL CARE PRIVATE LIMITED | Disqualified | None
+- GEM/2026/B/7534511: AEROTEK SERVICES | Disqualified | None
+- GEM/2026/B/7534511: ALBERTO TECHNOLOGIES | Disqualified | None
+- GEM/2026/B/7534511: ALLIANCE OUTSOURCING PRIVATE LIMITED | Disqualified | None
+- GEM/2026/B/7534511: AMPUG Solutions | Disqualified | None
+- GEM/2026/B/7534511: ANANYA SERVICES | Disqualified | None
