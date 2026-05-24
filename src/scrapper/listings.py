@@ -46,6 +46,15 @@ async def extract_one_card(card: Locator) -> dict:
         if href:
             bid_link = urljoin(BASE_URL, href)
 
+    bid_result_link = None
+    bid_result_link_locator = card.locator('a:has(input[value="View BID Results"])')
+
+    if await bid_result_link_locator.count() > 0:
+        href = await bid_result_link_locator.first.get_attribute("href")
+
+        if href:
+            bid_result_link = urljoin(BASE_URL, href)
+
     item_locator = card.locator("[data-content]")
 
     item_category = None
@@ -69,6 +78,7 @@ async def extract_one_card(card: Locator) -> dict:
         "bid_value": None,
         "award_date": end_date,
         "bid_link": bid_link,
+        "bid_result_link": bid_result_link,
     }
 
 
