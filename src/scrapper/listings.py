@@ -1,5 +1,3 @@
-import json
-from pathlib import Path
 from urllib.parse import urljoin
 
 from playwright.async_api import Page, Locator, TimeoutError as PlaywrightTimeoutError
@@ -23,7 +21,7 @@ async def get_text(card: Locator, selector: str) -> str | None:
 
 
 async def extract_one_card(card: Locator) -> dict:
-    bid_no = await get_text(card, ".bid_no_hover")
+    bid_id = await get_text(card, ".bid_no_hover")
 
     quantity_text = await get_text(
         card,
@@ -37,15 +35,6 @@ async def extract_one_card(card: Locator) -> dict:
 
     end_date = await get_text(card, ".end_date")
 
-    bid_link = None
-    bid_link_locator = card.locator(".bid_no_hover")
-
-    if await bid_link_locator.count() > 0:
-        href = await bid_link_locator.first.get_attribute("href")
-
-        if href:
-            bid_link = urljoin(BASE_URL, href)
-
     bid_result_link = None
     bid_result_link_locator = card.locator('a:has(input[value="View BID Results"])')
 
@@ -57,13 +46,13 @@ async def extract_one_card(card: Locator) -> dict:
 
     item_locator = card.locator("[data-content]")
 
-    item_category = None
+    category = None
 
     if await item_locator.count() > 0:
-        item_category = await item_locator.first.get_attribute("data-content")
+        category = await item_locator.first.get_attribute("data-content")
 
-    if item_category:
-        item_category = " ".join(item_category.split())
+    if category:
+        category = " ".join(category.split())
 
     quantity = None
 
@@ -71,13 +60,12 @@ async def extract_one_card(card: Locator) -> dict:
         quantity = quantity_text.replace("Quantity:", "").strip()
 
     return {
-        "bid_ra_number": bid_no,
-        "item_category": item_category,
-        "buyer_department": department_text,
+        "bid_id": bid_id,
+        "category": category,
+        "buyer": department_text,
         "quantity": quantity,
         "bid_value": None,
         "award_date": end_date,
-        "bid_link": bid_link,
         "bid_result_link": bid_result_link,
     }
 
@@ -153,7 +141,7 @@ async def extract_listing_data(page: Page, total_pages: int = 10) -> list[dict]:
             card = cards.nth(index)
             data = await extract_one_card(card)
 
-            bid_number = data.get("bid_ra_number")
+            bid_number = data.get("bid_id")
 
             if not bid_number:
                 continue
@@ -174,15 +162,3 @@ async def extract_listing_data(page: Page, total_pages: int = 10) -> list[dict]:
             break
 
     return results
-
-
-def save_raw_json(data: list[dict], filename: str = "listings_data.json") -> Path:
-    output_dir = Path("data/raw")
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    output_path = output_dir / filename
-
-    with output_path.open("w", encoding="utf-8") as file:
-        json.dump(data, file, indent=2, ensure_ascii=False)
-
-    return output_path

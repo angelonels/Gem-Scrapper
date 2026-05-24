@@ -239,9 +239,9 @@ def structure_record(record: dict, details: dict[str, Any] | None) -> dict[str, 
     details = details or {}
 
     return {
-        "bid_id": record.get("bid_ra_number"),
-        "category": record.get("item_category"),
-        "buyer": record.get("buyer_department"),
+        "bid_id": record.get("bid_id"),
+        "category": record.get("category"),
+        "buyer": record.get("buyer"),
         "quantity": record.get("quantity"),
         "bid_value": record.get("bid_value"),
         "award_date": record.get("award_date"),
@@ -253,11 +253,26 @@ def structure_record(record: dict, details: dict[str, Any] | None) -> dict[str, 
     }
 
 
+def split_structured_record(record: dict, details: dict[str, Any] | None) -> tuple[dict[str, Any], list[dict[str, Any]]]:
+    structured = structure_record(record, details)
+    vendors = structured.pop("vendors", [])
+    bid_id = structured.get("bid_id")
+    vendor_rows = [
+        {
+            "bid_id": bid_id,
+            **vendor,
+        }
+        for vendor in vendors
+    ]
+
+    return structured, vendor_rows
+
+
 async def enrich_records_with_bid_results(
     browser: Browser,
     records: list[dict],
     concurrency: int = DEFAULT_DETAIL_CONCURRENCY,
-) -> list[dict]:
+) -> tuple[list[dict], list[dict]]:
     context = await browser.new_context(
         ignore_https_errors=True,
         java_script_enabled=False,
@@ -265,18 +280,18 @@ async def enrich_records_with_bid_results(
     )
     semaphore = asyncio.Semaphore(concurrency)
 
-    async def enrich_one(index: int, record: dict) -> dict[str, Any]:
+    async def enrich_one(index: int, record: dict) -> tuple[dict[str, Any], list[dict[str, Any]]]:
         result_link = record.get("bid_result_link")
 
         if not result_link:
-            return structure_record(record, None)
+            return split_structured_record(record, None)
 
-        print(f"Extracting bid result {index}/{len(records)}: {record.get('bid_ra_number')}")
+        print(f"Extracting bid result {index}/{len(records)}: {record.get('bid_id')}")
 
         async with semaphore:
             details = await extract_bid_result_details_from_context(context, result_link)
 
-        return structure_record(record, details)
+        return split_structured_record(record, details)
 
     try:
         tasks = [
@@ -284,6 +299,14 @@ async def enrich_records_with_bid_results(
             for index, record in enumerate(records, start=1)
         ]
 
-        return await asyncio.gather(*tasks)
+        enriched_records = await asyncio.gather(*tasks)
+        bid_rows = [bid_row for bid_row, _ in enriched_records]
+        vendor_rows = [
+            vendor_row
+            for _, vendors in enriched_records
+            for vendor_row in vendors
+        ]
+
+        return bid_rows, vendor_rows
     finally:
         await context.close()
